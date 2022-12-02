@@ -1047,26 +1047,8 @@ header .ms-social li a {
   background-color: #fff;
   background-size: 100%;
 }
-.ms-tool .ms-skin li .skin.s-2 {
-  background-image: url("../img/bg/bg-thumb-2.png");
-  background-size: 100%;
-}
-.ms-tool .ms-skin li .skin.s-3 {
-  background-image: url("../img/bg/bg-thumb-3.png");
-  background-size: 100%;
-}
-.ms-tool .ms-skin li .skin.s-4 {
-  background-image: url("../img/bg/bg-thumb-4.png");
-  background-size: 100%;
-}
-.ms-tool .ms-skin li .skin.s-5 {
-  background-image: url("../img/bg/bg-thumb-5.png");
-  background-size: 100%;
-}
-.ms-tool .ms-skin li .skin.s-6 {
-  background-image: url("../img/bg/bg-thumb-6.png");
-  background-size: 100%;
-}
+
+
 .ms-tool .ms-dark {
   background: #fff;
   padding: 15px;
@@ -1118,22 +1100,7 @@ header .ms-social li a {
 .ms-tool .ms-dark li .light {
   background-color: #fff;
 }
-.ms-tool .ms-dark li .skin.s-3 {
-  background-image: url("../img/bg/bg-thumb-3.png");
-  background-size: 100%;
-}
-.ms-tool .ms-dark li .skin.s-4 {
-  background-image: url("../img/bg/bg-thumb-4.png");
-  background-size: 100%;
-}
-.ms-tool .ms-dark li .skin.s-5 {
-  background-image: url("../img/bg/bg-thumb-5.png");
-  background-size: 100%;
-}
-.ms-tool .ms-dark li .skin.s-6 {
-  background-image: url("../img/bg/bg-thumb-6.png");
-  background-size: 100%;
-}
+
 
 /*===== Header css =====*/
 .ms-home {
