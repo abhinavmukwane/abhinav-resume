@@ -13,10 +13,10 @@ const Home = () => {
                         <div className="profile-detail">
                             <img src="assets/img/profile.jpg" alt="profile" data-tilt />
                             <ul className="ms-social">
-                                
-                                <li><a href="https://www.instagram.com/abhinavmukwane/" ><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                <li><a href="https://github.com/abhinavmukwane" ><i className="fa fa-github" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.linkedin.com/in/abhinav-mukwane/" ><i className="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                            
+                            <li><a href="https://www.instagram.com/abhinavmukwane/"><i className="fa fa-instagram" ></i></a></li>
+                            <li><a href="https://github.com/abhinavmukwane"><i className="fa fa-github" ></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/abhinav-mukwane/"><i className="fa fa-linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>
