@@ -16,12 +16,13 @@ function App() {
     <div id="overlay_shine"></div>
     <Header />
     <div className="header-overlay"></div>
+    <a href="/#" className="nav-toggle"><i className="fa fa-bars"></i></a>
     <Home />
     <About />
     <Education />
     <div class="ms-cursor"></div>
     <div class="ms-cursor-2"></div>
-    
+
     <Helmet>
     <script src="assets/js/plugins/jquery-3.5.1.min.js"></script>
     <script src="assets/js/plugins/bootstrap.bundle.min.js"></script>
