@@ -8,6 +8,7 @@ import './assets/css/plugins/swiper-bundle.min.css';
 import './assets/css/plugins/bootstrap.css';
 import './assets/css/plugins/jquery.fancybox.min.css';
 import About from "./components/about/About";
+import Education from "./components/education/Education";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
     <div className="header-overlay"></div>
     <Home />
     <About />
+    <Education />
     <div class="ms-cursor"></div>
     <div class="ms-cursor-2"></div>
     <Helmet>

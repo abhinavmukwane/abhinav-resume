@@ -13,142 +13,84 @@ const About = () => {
                 </div>
                 <div className="col-lg-6">
                     <div className="ms-about-detail">
-                        <h4>Creativity bleeds from the pen of inspiration.</h4>
-                        <p className="ms-text">I am your Brand Consultant having <b>8+ years</b> of experience in this field provides complete range of marketing materials and branding solution to any industry as well as corporate clients maintaining their reputation and increasing the brand awareness using PR & other print media & online marketing activities.</p>
+                        <h4></h4>
                         <div className="ms-about-info">
                             <ul className="m-r-30">
-                                <li><span className="title">Full Name<b>:</b></span>Maria Martin Ilvor</li>
-                                <li><span className="title">Age<b>:</b></span>30 Years</li>
-                                <li><span className="title">Language<b>:</b></span>English, Hindi, Gujarati</li>
-                                <li><span className="title">Phone No<b>:</b></span>+00 9876543210</li>
-                                <li><span className="title">Email<b>:</b></span>mail.example@gmail.com</li>
-                                <li><span className="title">Address<b>:</b></span><span>Ruami Mello Moraes, - Salvador - MA, 40352, Brazil.</span></li>
+                                <li><span className="title">Full Name<b>:</b></span>Abhinav Ajay Mukwane</li>
+                                <li><span className="title">Age<b>:</b></span>26 Years</li>
+                                <li><span className="title">Gender<b>:</b></span>Male</li>
+                                <li><span className="title">Language<b>:</b></span>English, Hindi, Marathi</li>
+                                <li><span className="title">Email<b>:</b></span>abhinavmukwane@gmail.com</li>
+                                <li><span className="title">Address<b>:</b></span><span>Shiv Nagar, Barde Layout, Nagpur, Maharashtra</span></li>
                             </ul>
                         </div>
+                        <br/>
+                        <br/>
+                        <p className="ms-text" align="justify">Having pursued a Postgraduate Diploma in Advance Computing(PG-DAC) from C-DAC, Pune with 70.25% marks. I have developed core skills as C-programming, Java, OOPS, Advance Java, Data Structure and Algorithms, HTML, CSS, Java Script, React.JS, Node.js, Spring boot, Git, Docker, Jira, Database(SQL) and Software Development Methodologies.</p>
+                        <p className="ms-text" align="justify">Being a Bachelor of Engineering graduate in Electrical stream, I learn designing, working and protection systems of Transformer and Motor. Using this we made a project on the Induction motor protection system which provides protection to the induction motor from any electrical fault.</p>
+                        <p className="ms-text" align="justify">Having completed my diploma in electrical stream gave me understanding of the basics of electrical stream, logical thinking and analytical skills.</p>
                     </div>
                 </div>
                 <div className="col-lg-6">
                     <div className="ms-skill-progress">
-                        <h5>PHP</h5>
-                        <div className="progress" data-percent="90%">
-                            <div className="progress-done progress-done-php" role="progressbar">
-                                <span>90%</span>
+                        <h5>Java</h5>
+                        <div className="progress" data-percent="80%">
+                            <div className="progress-done progress-done-java" role="progressbar">
+                                <span>80%</span>
                             </div>
                         </div>
-                        <h5>JAVASCRIPT</h5>
-                        <div className="progress" data-percent="50%">
-                            <div className="progress-done progress-done-js" role="progressbar">
-                                <span>50%</span>
+                        <h5>DSA</h5>
+                        <div className="progress" data-percent="75%">
+                            <div className="progress-done progress-done-dsa" role="progressbar">
+                                <span>75%</span>
                             </div>
                         </div>
-                        <h5>HTML</h5>
-                        <div className="progress" data-percent="98%">
-                            <div className="progress-done progress-done-html" role="progressbar">
-                                <span>98%</span>
+                        <h5>Spring Boot</h5>
+                        <div className="progress" data-percent="80%">
+                            <div className="progress-done progress-done-spring" role="progressbar">
+                                <span>80%</span>
                             </div>
                         </div>
-                        <h5>CSS</h5>
-                        <div className="progress" data-percent="92%">
-                            <div className="progress-done progress-done-css" role="progressbar">
-                                <span>92%</span>
-                            </div>
-                        </div>
-                        <h5>SCSS</h5>
+                        <h5>Node.js</h5>
                         <div className="progress" data-percent="70%">
-                            <div className="progress-done progress-done-scss" role="progressbar">
+                            <div className="progress-done progress-done-node" role="progressbar">
                                 <span>70%</span>
                             </div>
                         </div>
-                        <h5>Photoshop</h5>
+                        <h5>React.js</h5>
+                        <div className="progress" data-percent="75%">
+                            <div className="progress-done progress-done-react" role="progressbar">
+                                <span>75%</span>
+                            </div>
+                        </div>
+                        <h5>JavaScript</h5>
                         <div className="progress" data-percent="65%">
-                            <div className="progress-done progress-done-ps" role="progressbar">
+                            <div className="progress-done progress-done-node" role="progressbar">
                                 <span>65%</span>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-            <div className="row service-box p-t-80 m-tb-minus-12">
-                <div className="col-lg-3 col-md-6 col-xs-12">
-                    <div className="flipper">
-                        <div className="main-box">
-                            <div className="box-front height-300 white-bg">
-                                <img className="bg-img svg_img" src="assets/img/service/1.svg" alt="Graphics Design"></img>
-                                <div className="content-wrap">
-                                    <img className="icofont icofont-headphone-alt font-40px dark-color svg_img" src="assets/img/service/1.svg" alt="Graphics Design"></img>
-                                    <h3>Graphics Design</h3>
-                                    <p>Develop the Visual Identity of Your Business</p>
-                                </div>
-                            </div>
-                            <div className="box-back height-300 gradient-bg">
-                                <div className="content-wrap">
-                                <h3>Graphics Design</h3>
-                                    <p>Develop the Visual Identity of Your Business</p>
-                                    
-                                </div>
+                        <h5>HTML</h5>
+                        <div className="progress" data-percent="95%">
+                            <div className="progress-done progress-done-html" role="progressbar">
+                                <span>95%</span>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-6 col-xs-12">
-                    <div className="flipper">
-                        <div className="main-box">
-                            <div className="box-front height-300 white-bg">
-                                <img className="bg-img svg_img" src="assets/img/service/2.svg" alt="Graphics Design"></img>
-                                <div className="content-wrap">
-                                    <img className="icofont icofont-headphone-alt font-40px dark-color svg_img" src="assets/img/service/2.svg" alt="web design"></img>
-                                    <h3>Web Design</h3>
-                                    <p>Connect With Your Users, Not Just Your Business.</p>
-                                </div>
-                            </div>
-                            <div className="box-back height-300 gradient-bg">
-                                <div className="content-wrap">
-                                    <h3>Web Design</h3>
-                                    <p>Connect With Your Users, Not Just Your Business.</p>
-                                    
-                                </div>
+                        <h5>CSS</h5>
+                        <div className="progress" data-percent="85%">
+                            <div className="progress-done progress-done-css" role="progressbar">
+                                <span>85%</span>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-6 col-xs-12">
-                    <div className="flipper">
-                        <div className="main-box">
-                            <div className="box-front height-300 white-bg">
-                                <img className="bg-img svg_img" src="assets/img/service/3.svg" alt="Graphics Design"></img>
-                                <div className="content-wrap">
-                                    <img className="icofont icofont-headphone-alt font-40px dark-color svg_img" src="assets/img/service/3.svg" alt="development"></img>
-                                    <h3>Development</h3>
-                                    <p>We Develop the Visual Identity of Your Business.</p>
-                                </div>
-                            </div>
-                            <div className="box-back height-300 gradient-bg">
-                                <div className="content-wrap">
-                                    <h3>Development</h3>
-                                    <p>We Develop the Visual Identity of Your Business.</p>
-                                    
-                                </div>
+                        <h5>Database(SQL)</h5>
+                        <div className="progress" data-percent="75%">
+                            <div className="progress-done progress-done-sql" role="progressbar">
+                                <span>75%</span>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-6 col-xs-12">
-                    <div className="flipper">
-                        <div className="main-box">
-                            <div className="box-front height-300 white-bg">
-                                <img className="bg-img svg_img" src="assets/img/service/4.svg" alt="Graphics Design"></img>
-                                <div className="content-wrap">
-                                    <img className="icofont icofont-headphone-alt font-40px dark-color svg_img" src="assets/img/service/4.svg" alt="seo friendly"></img>
-                                    <h3>Seo Friendly</h3>
-                                    <p>Taking your site at the top of Google's ranking.</p>
-                                </div>
-                            </div>
-                            <div className="box-back height-300 gradient-bg">
-                                <div className="content-wrap">
-                                    <h3>Seo Friendly</h3>
-                                    <p>Taking your site at the top of Google's ranking.</p>
-                                    
-                                </div>
+                        <h5>Software Development Methodologies</h5>
+                        <div className="progress" data-percent="65%">
+                            <div className="progress-done progress-done-ps" role="progressbar">
+                                <span>65%</span>
                             </div>
                         </div>
                     </div>
