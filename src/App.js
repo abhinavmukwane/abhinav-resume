@@ -16,7 +16,7 @@ function App() {
     <div id="overlay_shine"></div>
     <Header />
     <div className="header-overlay"></div>
-    <a href="/#" className="nav-toggle"><i className="fa fa-bars"></i></a>
+    <button  className="nav-toggle"><i className="fa fa-bars"></i></button>
     <Home />
     <About />
     <Education />
