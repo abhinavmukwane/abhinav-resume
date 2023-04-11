@@ -10,7 +10,6 @@ import './assets/css/plugins/jquery.fancybox.min.css';
 import About from "./components/about/About";
 import Education from "./components/education/Education";
 import Contact from "./components/contact/Contact";
-import Portfolio from "./components/portfolio/Portfolio";
 
 function App() {
   return (
