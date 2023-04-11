@@ -22,7 +22,6 @@ function App() {
     <Home />
     <About />
     <Education />
-    <Portfolio />
     <Contact />
     <div class="ms-cursor"></div>
     <div class="ms-cursor-2"></div>
