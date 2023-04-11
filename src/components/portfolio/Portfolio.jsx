@@ -51,7 +51,7 @@ return (
                                                 <div className="overlay">
                                                     <div className="overlay-info">
                                                         <a className="info" href="/#"><i className="fa fa-link" aria-hidden="true"></i></a>
-                                                        <a className="info" data-fancybox="gallery" href="/"><i className="fa fa-search" aria-hidden="true"></i></a>
+                                                        <a className="info" data-fancybox="gallery" href="/#"><i className="fa fa-search" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
