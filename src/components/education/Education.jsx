@@ -5,6 +5,14 @@ const Education = () => {
     return (
       <section className="ms-experience-section ms-slide padding-tb-80 body-bg">
         <div className="container">
+<<<<<<< HEAD
+          <div className="row">
+            <div className="section-title">
+              <h2>
+                My <span>Achievements</span>
+              </h2>
+              <span className="ligh-title">Achievements</span>
+=======
             <div className="row">
                 <div className="section-title">
                     <h2>My <span>Achievements</span></h2>
@@ -120,6 +128,7 @@ const Education = () => {
                         </ul>
                     </div>
                 </div>
+>>>>>>> 4e6226c2cfdc09725aec69c213c0a460c4f79e78
             </div>
             <div className="col-lg-6 col-md-12 col-sm-12">
               <div className="education">
