@@ -17,7 +17,7 @@ const Home = () => {
                             <li><a href="https://www.instagram.com/abhinavmukwane/"><i className="fa fa-instagram" ></i></a></li>
                             <li><a href="https://github.com/abhinavmukwane"><i className="fa fa-github" ></i></a></li>
                             <li><a href="https://www.linkedin.com/in/abhinav-mukwane/"><i className="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://trailblazer.me/id/abhinav-mukwane"><i className="fa fa-salesforce"></i></a></li>
+                            <li><a href="https://trailblazer.me/id/abhinav-mukwane"><i className="fa fa-cloud"></i></a></li>
                             </ul>
                         </div>
                     </div>
