@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
 
-    const birthdate = new Date('1996-05-08'); // your actual birthdate in yyyy-mm-dd format
+    const birthdate = new Date('1998-05-08'); // your actual birthdate in yyyy-mm-dd format
     const currentDate = new Date();
     const ageInMilliseconds = currentDate - birthdate;
     const ageInYears = Math.floor(ageInMilliseconds / (365.25 * 24 * 60 * 60 * 1000));
