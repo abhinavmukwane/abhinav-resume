@@ -75,6 +75,26 @@ const Education = () => {
               <div className="experiense">
                 <h4>Experiense</h4>
                 <ul className="timeline">
+                <li className="timeline-item">
+                    <div className="timeline-block">
+                      <div className="timeline-info">
+                        <span>Aug 2023 to Present</span>
+                      </div>
+                      <div className="timeline-marker"></div>
+                      <div className="timeline-content">
+                        <h5 className="timeline-title">
+                          Trust Systems and Software (I) Pvt. Ltd.
+                          <span className="sub">- Software Developer</span>
+                        </h5>
+                        <p align="justify">
+                        • Developing and maintaining web-based applications using ASP.Net MVC and ASP.Net Web API.
+                        • Experience in working on Banking Domain Web Applications and Loan Origination System (LOS).
+                        • Worked on MS SQL and MySQL databases.
+                        • Experience in creating front-end of applications through appealing visual design using HTML, CSS, JavaScript, jQuery, Bootstrap and React.js.
+                        </p>
+                      </div>
+                    </div>
+                  </li>
                   <li className="timeline-item">
                     <div className="timeline-block">
                       <div className="timeline-info">
