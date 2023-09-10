@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
 
-    const birthdate = new Date('1998-05-08'); // your actual birthdate in yyyy-mm-dd format
+    const birthdate = new Date('1996-05-08'); // your actual birthdate in yyyy-mm-dd format
     const currentDate = new Date();
     const ageInMilliseconds = currentDate - birthdate;
     const ageInYears = Math.floor(ageInMilliseconds / (365.25 * 24 * 60 * 60 * 1000));
@@ -26,7 +26,7 @@ const About = () => {
                                 <li><span className="title">Gender<b>:</b></span>Male</li>
                                 <li><span className="title">Language<b>:</b></span>English, Hindi, Marathi</li>
                                 <li><span className="title">Email<b>:</b></span>abhinavmukwane@gmail.com</li>
-                                <li><span className="title">Address<b>:</b></span><span>Shiv Nagar, Barde Layout, Nagpur, Maharashtra</span></li>
+                                <li><span className="title">Address<b>:</b></span><span>Nagpur, Maharashtra</span></li>
                             </ul>
                         </div>
                         <br/>
