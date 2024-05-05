@@ -83,14 +83,19 @@ const Education = () => {
                       <div className="timeline-marker"></div>
                       <div className="timeline-content">
                         <h5 className="timeline-title">
-                          Trust Systems and Software (I) Pvt. Ltd.
+                          Trust Fintech Limited, Nagpur
                           <span className="sub">- Software Developer</span>
                         </h5>
                         <p align="justify">
-                        • Developing and maintaining web-based applications using ASP.Net MVC and ASP.Net Web API.
+                        • Proficient in Developing and maintaining web-based applications using ASP.Net MVC and ASP.Net Web API.
                         • Experience in working on Banking Domain Web Applications and Loan Origination System (LOS).
-                        • Worked on MS SQL and MySQL databases.
+                        • Strong command over JavaScript, jQuery, AJAX, JSON, and LINQ, facilitating dynamic and interactive user experiences and efficient data handling.
+                        • Experience in Working on MS SQL and MySQL databases.
+                        • Creating Stored Procedure (Proc.), functions and View (Virtual Table) in MS SQL and MySQL databases.
                         • Experience in creating front-end of applications through appealing visual design using HTML, CSS, JavaScript, jQuery, Bootstrap and React.js.
+                        • Proficient in deploying and publishing ASP.NET web applications on IIS (Internet Information Services).
+                        • Experience in solving vulnerability issues of ASP.NET MVC and WEB API web application.
+                        • Proficient in version control systems including Git, GitHub, and Visual SourceSafe (VSS), ensuring efficient collaboration and code management throughout the development lifecycle.
                         </p>
                       </div>
                     </div>
