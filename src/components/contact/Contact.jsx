@@ -15,7 +15,7 @@ const Contact = () => {
                     <iframe title="location" src="//maps.google.com/maps?q=%20Nagpur+(Nagpur)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" allowfullscreen=""></iframe>
                 </div>
                 <div className="col-md-6">
-                    <form>
+                    <form netlify>
                         <div className="form-group">
                             <input type="text" className="form-control" id="fname" placeholder="Full Name" />
                         </div>
