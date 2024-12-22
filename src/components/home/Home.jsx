@@ -28,7 +28,7 @@ const Home = () => {
                             <h1>Hi,</h1>
                             <h1>I'm <span>Abhinav Mukwane</span></h1>
                             <h1>I'm Fullstack Developer</h1>
-                            <p>Software Developer @ Trust Fintech Limited, Nagpur</p>
+                            <p>Software Developer @ <a href="https://www.softtrust.com/" target="_blank">Trust Fintech Limited, Nagpur</a></p>
                             <a className="custom-btn ms-btn m-r-5px" href="assets/Abhinav-Mukwane.pdf">Download CV</a>
                         </div>
                     </div>
