@@ -45,34 +45,46 @@ const About = () => {
                                 <span>80%</span>
                             </div>
                         </div>
+                         <h5>ASP.NET Web API</h5>
+                        <div className="progress" data-percent="80%">
+                            <div className="progress-done progress-done-java" role="progressbar">
+                                <span>80%</span>
+                            </div>
+                        </div>
                         <h5>.NET</h5>
-                        <div className="progress" data-percent="75%">
+                        <div className="progress" data-percent="78%">
                             <div className="progress-done progress-done-dsa" role="progressbar">
-                                <span>75%</span>
+                                <span>78%</span>
                             </div>
                         </div>
                         <h5>C#</h5>
-                        <div className="progress" data-percent="80%">
+                        <div className="progress" data-percent="78%">
                             <div className="progress-done progress-done-spring" role="progressbar">
                                 <span>78%</span>
                             </div>
                         </div>
                         <h5>JavaScript</h5>
-                        <div className="progress" data-percent="65%">
+                        <div className="progress" data-percent="70%">
                             <div className="progress-done progress-done-node" role="progressbar">
-                                <span>72%</span>
+                                <span>70%</span>
                             </div>
                         </div>
                         <h5>jQuery</h5>
                         <div className="progress" data-percent="70%">
                             <div className="progress-done progress-done-node" role="progressbar">
-                                <span>68%</span>
+                                <span>70%</span>
                             </div>
                         </div>
                         <h5>React.js</h5>
-                        <div className="progress" data-percent="75%">
+                        <div className="progress" data-percent="68%">
                             <div className="progress-done progress-done-react" role="progressbar">
-                                <span>72%</span>
+                                <span>68%</span>
+                            </div>
+                        </div>
+                        <h5>Bootstrap</h5>
+                        <div className="progress" data-percent="90%">
+                            <div className="progress-done progress-done-html" role="progressbar">
+                                <span>90%</span>
                             </div>
                         </div>
                         <h5>HTML</h5>
@@ -82,15 +94,15 @@ const About = () => {
                             </div>
                         </div>
                         <h5>CSS</h5>
-                        <div className="progress" data-percent="85%">
+                        <div className="progress" data-percent="80%">
                             <div className="progress-done progress-done-css" role="progressbar">
-                                <span>85%</span>
+                                <span>80%</span>
                             </div>
                         </div>
                         <h5>Database(SQL)</h5>
-                        <div className="progress" data-percent="75%">
+                        <div className="progress" data-percent="78%">
                             <div className="progress-done progress-done-sql" role="progressbar">
-                                <span>75%</span>
+                                <span>78%</span>
                             </div>
                         </div>
                         <h5>Software Development Methodologies</h5>
