@@ -40,7 +40,7 @@ const Contact = () => {
                             <div className="info">
                                 <h3 className="title">Mail</h3>
                                 <p>
-                                    <i className="fa fa-envelope" aria-hidden="true"></i> abhinavmukwane@gmail.com
+                                    <i className="fa fa-envelope" aria-hidden="true"></i> abhinavmukwane[at]gmail[dot]com
                                 </p>
                             </div>
                         </div>
