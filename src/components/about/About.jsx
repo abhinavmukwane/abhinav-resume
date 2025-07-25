@@ -21,11 +21,11 @@ const About = () => {
                         <h4>Personal Details</h4>
                         <div className="ms-about-info">
                             <ul className="m-r-30">
-                                <li><span className="title">Full Name<b>:</b></span>Abhinav Ajay Mukwane</li>
+                                <li><span className="title">Full Name<b>:</b></span>Abhinav Mukwane</li>
                                 <li><span className="title">Age<b>:</b></span>{ageInYears} Years</li>
                                 <li><span className="title">Gender<b>:</b></span>Male</li>
                                 <li><span className="title">Language<b>:</b></span>English, Hindi, Marathi</li>
-                                <li><span className="title">Email<b>:</b></span>abhinavmukwane@gmail.com</li>
+                                <li><span className="title">Email<b>:</b></span>abhinavmukwane[at]gmail[dot]com</li>
                                 <li><span className="title">Address<b>:</b></span><span>Nagpur, Maharashtra</span></li>
                             </ul>
                         </div>
